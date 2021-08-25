@@ -2,7 +2,7 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+what da dog doin
 Use the left arrow to go back!
 Woohoo!
 
